@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "STestInvariant-Core",
+	"classinstvars" : [
+		"numTest"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "STIEvaluatorInvariant",
+	"type" : "normal"
+}

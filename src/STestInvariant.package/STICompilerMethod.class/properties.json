@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "STestInvariant-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"evaluator"
+	],
+	"name" : "STICompilerMethod",
+	"type" : "normal"
+}

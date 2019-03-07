@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "STIAssertion",
+	"category" : "STestInvariant-Assertion",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "STICollectionSimilarityAssertion",
+	"type" : "normal"
+}

@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "STestInvariant-Core",
+	"classinstvars" : [
+		"numTest"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"compiler"
+	],
+	"name" : "STIGeneratorInvariant",
+	"type" : "normal"
+}

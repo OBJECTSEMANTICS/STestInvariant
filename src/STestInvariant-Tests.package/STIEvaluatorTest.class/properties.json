@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "STITest",
+	"category" : "STestInvariant-Tests-Generator",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "STIEvaluatorTest",
+	"type" : "normal"
+}
